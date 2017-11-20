@@ -1,4 +1,5 @@
-# CalculusHelper
+![Logo](https://images-na.ssl-images-amazon.com/images/I/51SumZMQoZL._SL210_QL95_BG0,0,0,0_FMpng_.jpg)
+# Calculus Helper Alexa Skill
 This is the code of my Amazon Alexa Skill [Calculus Helper](https://www.amazon.com/thehappydinoa-Calculus-Helper/dp/B0763T9JPQ/)
 
 ## Update Log
