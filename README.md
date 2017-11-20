@@ -11,27 +11,27 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](https://www.amazon.c
 - [x] discontinuity (removable, essential, infinite, and hole) 
 
 ### Unit 2
-- [x] derivative
-- [x] formal definition of a derivative
-- [x] properties of derivatives
-- [x] power rule for derivatives
-- [x] sum/difference rule for derivatives
-- [x] product rule for derivatives
-- [x] quotient rule for derivatives
-- [x] chain rule for derivatives
-- [x] derivatives of exponential, logarithmic, and trigonometric functions
+- [ ] derivative
+- [ ] formal definition of a derivative
+- [ ] properties of derivatives
+- [ ] power rule for derivatives
+- [ ] sum/difference rule for derivatives
+- [ ] product rule for derivatives
+- [ ] quotient rule for derivatives
+- [ ] chain rule for derivatives
+- [ ] derivatives of exponential, logarithmic, and trigonometric functions
  
  ### Unit 3
-- [x] implicit differentiation
-- [x] inverse derivative 
-- [x] critical value
-- [x] local extrema
-- [x] absolute extrema
-- [x] maximum
-- [x] minimum
-- [x] inflection point
-- [x] concavity
-- [x] L'Hopital's Rule 
+- [ ] implicit differentiation
+- [ ] inverse derivative 
+- [ ] critical value
+- [ ] local extrema
+- [ ] absolute extrema
+- [ ] maximum
+- [ ] minimum
+- [ ] inflection point
+- [ ] concavity
+- [ ] L'Hopital's Rule 
 
 ### Unit 4
 - [ ] tangent lines
