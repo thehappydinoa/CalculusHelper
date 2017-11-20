@@ -15,7 +15,35 @@ definitions = {
     "removable discontinuity": ["A removable discontinuity is a point at which a graph is not connected but can be made connected by filling in a single point.", "when the limit of f of x as x approaches a exists and either f of a is undefined or the limit of f of x as x approaches a is not equal to f of a"],
     "essential discontinuity": ["A essential discontinuity is any discontinuity that is not removable", ""],
     "infinite discontinuity": ["A function creates an Infinite Discontinuity at a if any of the one or two sided limits at a is infinite.", ""],
-    "hole": ["A hole is another name for a removable discontinuity or removable singularity.", ""]
+    "hole": ["A hole is another name for a removable discontinuity or removable singularity.", ""], 
+    # Unit 2
+    "asymptote": ["An asymptote is a line that a graph approaches, but does not intersect.", "y equals 4 x plus 2 over x squared plus 1"],
+    "asymptotes": ["An asymptote is a line that a graph approaches, but does not intersect.", "y equals 4 x plus 2 over x squared plus 1"],
+    "vertical asymptote": ["Vertical asymptotes are vertical lines which correspond to the zeroes of the denominator of a rational function.", "X cannot be negative 3 or negative 2."],
+    "vertical asymptotes": ["Vertical asymptotes are vertical lines which correspond to the zeroes of the denominator of a rational function.", "X cannot be negative 3 or negative 2."],
+    "horizontal asymptote": ["Horizontal asymptotes are horizontal lines that the graph of the function approaches as x approaches positive or a negative infinity.", "y equals c if the limit as x approaches inifity of f of x equals c or if the limit as x approaches possitive inifity of f of x equals c "],
+    "horizontal asymptotes": ["Horizontal asymptotes are horizontal lines that the graph of the function approaches as x approaches positive or a negative infinity.", "y equals c if the limit as x approaches inifity of f of x equals c or if the limit as x approaches possitive inifity of f of x equals c "],
+    "oblique asymptote": ["an oblique asymptote occurs when a linear asymptote is not parallel to the x and y axis.", ""],
+    "oblique asymptotes": ["oblique asymptotes occurs when linear asymptotes are not parallel to the x and y axis.", ""],
+    "slant asymptote": ["an oblique or slant asymptote occurs when a linear asymptote is not parallel to the x and y axis.", ""],
+    "slant asymptotes": ["oblique asymptotes or slant asymptotes occurs when linear asymptotes are not parallel to the x and y axis.", ""],
+    "derivative": ["The derivative of a function of a real variable measures the sensitivity to change of the function value with respect to a change in its argument.", ""],
+    "derivatives": ["Derivatives of a function of a real variable measures the sensitivity to change of the function value with respect to a change in its argument.", ""],
+    "properties of derivatives": ["The properties of derivatives are rules that applie to all derivatives", "the power rule"],
+    "power rule": ["", ""],
+    "power rule for derivatives": ["", ""],
+    "sum/difference rule": ["", ""],
+    "sum/difference rule for derivatives": ["", ""],
+    "product rule": ["The product rule is used to find the derivative of a product of two functions.", ""],
+    "product rule for derivatives": ["The product rule is used to find the derivative of a product of two functions.", ""],
+    "quotient rule": ["The quotient rule gives the derivative of one function divided by another.", ""],
+    "quotient rule for derivatives": ["The quotient rule gives the derivative of one function divided by another.", ""],
+    "derivatives of exponential functions": ["", ""],
+    "derivatives of logarithmic functions": ["", ""],
+    "derivatives of trigonometric functions": ["", ""],
+    "derivative of exponential functions": ["", ""],
+    "derivative of logarithmic functions": ["", ""],
+    "derivative of trigonometric functions": ["", ""]
 }
 
 
