@@ -1,5 +1,5 @@
 ![Logo](https://images-na.ssl-images-amazon.com/images/I/51SumZMQoZL._SL210_QL95_BG0,0,0,0_FMpng_.jpg)
-# Calculus Helper Alexa Skill
+# Calculus Helper Alexa Skill ![Python 2.7](https://img.shields.io/badge/Python-2.7-blue.svg) ![Alexa Skill](https://img.shields.io/badge/Amazon-Published-orange.svg)
 This is the code of my Amazon Alexa Skill [Calculus Helper](https://www.amazon.com/thehappydinoa-Calculus-Helper/dp/B0763T9JPQ/)
 
 ## Update Log
