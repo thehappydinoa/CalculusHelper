@@ -11,15 +11,15 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](https://www.amazon.c
 - [x] discontinuity (removable, essential, infinite, and hole) 
 
 ### Unit 2
-- [ ] derivative
-- [ ] formal definition of a derivative
-- [ ] properties of derivatives
-- [ ] power rule for derivatives
-- [ ] sum/difference rule for derivatives
-- [ ] product rule for derivatives
-- [ ] quotient rule for derivatives
-- [ ] chain rule for derivatives
-- [ ] derivatives of exponential, logarithmic, and trigonometric functions
+- [x] derivative
+- [x] formal definition of a derivative
+- [x] properties of derivatives
+- [x] power rule for derivatives
+- [x] sum/difference rule for derivatives
+- [x] product rule for derivatives
+- [x] quotient rule for derivatives
+- [x] chain rule for derivatives
+- [x] derivatives of exponential, logarithmic, and trigonometric functions
  
  ### Unit 3
 - [ ] implicit differentiation
