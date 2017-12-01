@@ -4,6 +4,7 @@ import re
 definitions = {
     # Concept : [Definition, Example] ("": ["", ""],)
     # Unit 1
+    "calculus": ["Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations", " if you had one formula telling how much money you got every day, calculus would help you understand related formulas like how much money you have in total, and whether you are getting more money or less than you used to"],
     "function": ["A function is an equation will be a function if for any x in the domain of the equation, the equation will yield exactly one value of y.", "Y equals X squared plus one"],
     "functions": ["Functions are equations will be a function if for any x in the domain of the equation, the equation will yield exactly one value of y.", "Y equals X squared plus one"],
     "limit": ["A limit is the value that a function or sequence approaches as the input or index approaches some value. Limits can be analysed through the use of tables, graphs, or algebraicly.", "the limit of f of n as n approaches c equals L"],
