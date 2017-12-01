@@ -42,3 +42,11 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 - [ ] differential
 - [ ] related rates
 - [ ] optimization
+
+## DEPENDENCIES
+
+This has been tested with Python 2.6 and 2.7.
+
+## LICENSE
+
+MIT License
