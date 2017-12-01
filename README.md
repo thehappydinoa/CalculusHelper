@@ -5,6 +5,7 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 ## Update Log
 
 ### Unit 1
+- [x] calculus
 - [x] function
 - [x] limits (graphical, algebraic, table analysis)
 - [x] continuity
