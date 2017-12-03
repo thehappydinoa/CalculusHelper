@@ -48,7 +48,27 @@ definitions = {
     "derivatives of trigonometric functions": ["", ""],
     "derivative of exponential functions": ["", "the derivative of e to the power of x is e to the power of x"],
     "derivative of logarithmic functions": ["", ""],
-    "derivative of trigonometric functions": ["", ""]
+    "derivative of trigonometric functions": ["", ""],
+    # Unit 3
+    "implicit differentiation": ["Implicit differentiation is nothing more than a special case of the well-known chain rule for derivatives", "x squared plus y squared equals twenty five"],
+    "inverse derivative": ["the inverse of a function y equals f of x is a function that, in some fashion, undoes the effect of f", "x equals f inverse of y is the inverse of y equals f or x"],
+    "inverse derivatives": ["the inverse of a function y equals f of x is a function that, in some fashion, undoes the effect of f", "x equals f inverse of y is the inverse of y equals f or x"],
+    "critical value": ["", ""],
+    "critical values": ["", ""],
+    "local extrema": ["", ""],
+    "local extremas": ["", ""],
+    "absolute extrema": ["", ""],
+    "absolute extremas": ["", ""],
+    "maximum": ["", ""],
+    "maximums": ["", ""],
+    "minimum": ["", ""],
+    "minimums": ["", ""],
+    "inflection point": ["", ""],
+    "inflection points": ["", ""],
+    "concavity": ["", ""],
+    "concavities": ["", ""],
+    "L'Hopital's rule": ["", ""],
+    "L'Hopital's rules": ["", ""]
 }
 
 
