@@ -21,7 +21,7 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 - [x] product rule for derivatives
 - [x] quotient rule for derivatives
 - [x] chain rule for derivatives
-- [x] derivatives of exponential, logarithmic, and trigonometric functions
+- [ ] derivatives of exponential, logarithmic, and trigonometric functions
  
  ### Unit 3
 - [ ] implicit differentiation
