@@ -24,8 +24,8 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 - [ ] derivatives of exponential, logarithmic, and trigonometric functions
  
  ### Unit 3
-- [ ] implicit differentiation
-- [ ] inverse derivative 
+- [x] implicit differentiation
+- [x] inverse derivative 
 - [ ] critical value
 - [ ] local extrema
 - [ ] absolute extrema
