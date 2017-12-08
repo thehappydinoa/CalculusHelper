@@ -26,7 +26,7 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
  ### Unit 3
 - [x] implicit differentiation
 - [x] inverse derivative 
-- [ ] critical value
+- [x] critical value
 - [ ] local extrema
 - [ ] absolute extrema
 - [ ] maximum
