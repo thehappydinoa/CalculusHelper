@@ -61,7 +61,19 @@ definitions = {
     "absolute extremas": ["absolute extremas are nothing more than the largest and smallest values that a function will take so all that we really need to do is get a list of possible absolute extrema", "the maximum is x equals 14 and the minimum is x equals 5"],
     "inflection points": ["an inflection point, point of inflection, flex, or inflection is a point on a curve at which the curve changes from being concave to convex, or vice versa", "when f of x equals x cubed the inflection point is at 0"],
     "concavity": ["concavity is the shape of the curvature of a function", "if f of x is 2 the it is concave up"],
-    "L'Hopital's rule": ["L'Hospital's rule uses derivatives to help evaluate limits involving indeterminate forms", "the derivative of 3 x squared plus x all over 5 x sqaured plus 12 x is 6 x plus 1 all over 10 x plus 12. This still doesn't work. You have to take the derivative again. It is 6 over 10. This works "]
+    "L'Hopital's rule": ["L'Hospital's rule uses derivatives to help evaluate limits involving indeterminate forms", "the derivative of 3 x squared plus x all over 5 x sqaured plus 12 x is 6 x plus 1 all over 10 x plus 12. This still doesn't work. You have to take the derivative again. It is 6 over 10. This works "],
+    # Unit 4
+    "tangent line": ["the tangent line to a plane curve at a given point is the straight line that just touches the curve at that point.", ""],
+    "tangent lines": ["tangent lines to a plane curve at a given point is the straight line that just touches the curve at that point.", ""],
+    "normal line": ["The normal line to a curve at a particular point is the line through that point and perpendicular to the tangent", ""],
+    "normal lines": ["The normal line to a curve at a particular point is the line through that point and perpendicular to the tangent", ""],
+    "approximation": ["an approximation is a inexact result adequate for a given purpose.", ""],
+    "approximations": ["approximations are inexact results adequate for a given purpose.", ""],
+    "differential": ["the differential represents the principal part of the change in a function y equals f of x with respect to changes in the independent variable.", ""],
+    "differentials": ["differentials represents the principal part of the change in a function y equals f of x with respect to changes in the independent variable.", ""],
+    "related rate": ["the related rate involves finding a rate at which a quantity changes by relating that quantity to other quantities whose rates of change are known.", ""],
+    "related rates": ["related rates problems involve finding a rate at which a quantity changes by relating that quantity to other quantities whose rates of change are known.", ""],
+    "optimization": ["optimization is the the mathematical procedures such as finding the maximum of a function", ""]
 }
 
 
