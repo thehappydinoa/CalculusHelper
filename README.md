@@ -36,12 +36,12 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 - [x] L'Hopital's Rule 
 
 ### Unit 4
-- [ ] tangent lines
-- [ ] normal lines
-- [ ] approximation
-- [ ] differential
-- [ ] related rates
-- [ ] optimization
+- [x] tangent lines
+- [x] normal lines
+- [x] approximation
+- [x] differential
+- [x] related rates
+- [x] optimization
 
 ## DEPENDENCIES
 
