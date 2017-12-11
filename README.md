@@ -27,13 +27,13 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 - [x] implicit differentiation
 - [x] inverse derivative 
 - [x] critical value
-- [ ] local extrema
-- [ ] absolute extrema
-- [ ] maximum
-- [ ] minimum
-- [ ] inflection point
-- [ ] concavity
-- [ ] L'Hopital's Rule 
+- [x] local extrema
+- [x] absolute extrema
+- [x] maximum
+- [x] minimum
+- [x] inflection point
+- [x] concavity
+- [x] L'Hopital's Rule 
 
 ### Unit 4
 - [ ] tangent lines
