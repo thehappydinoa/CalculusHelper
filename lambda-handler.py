@@ -55,20 +55,13 @@ definitions = {
     "inverse derivatives": ["the inverse of a function y equals f of x is a function that, in some fashion, undoes the effect of f", "x equals f inverse of y is the inverse of y equals f or x"],
     "critical point": ["the critical point is where if the value goes above or below it will lead to significant change in other values", "f prime of x equals 3 x squared minus 3 its two critical points at x equals negative 1 and positive 1"],
     "critical points": ["critical points is where if the value goes above or below it will lead to significant change in other values", "f prime of x equals 3 x squared minus 3 its two critical points at x equals negative 1 and positive 1"],
-    "local extrema": ["", ""],
-    "local extremas": ["", ""],
+    "local extrema": ["the local extrema is the maximum or minimum in the area that occurs around a point", "the maximum is x equals 14"],
+    "local extremas": ["the local extremas are the maximum or minimums in the area that occurs around a point", "the maximum is x equals 14 and the minimum is x equals 5"],
     "absolute extrema": ["", ""],
     "absolute extremas": ["", ""],
-    "maximum": ["", ""],
-    "maximums": ["", ""],
-    "minimum": ["", ""],
-    "minimums": ["", ""],
-    "inflection point": ["", ""],
-    "inflection points": ["", ""],
-    "concavity": ["", ""],
-    "concavities": ["", ""],
-    "L'Hopital's rule": ["", ""],
-    "L'Hopital's rules": ["", ""]
+    "inflection points": ["an inflection point, point of inflection, flex, or inflection is a point on a curve at which the curve changes from being concave to convex, or vice versa", "when f of x equals x cubed the inflection point is at 0"],
+    "concavity": ["concavity is the shape of the curvature of a function", "if f of x is 2 the it is concave up"],
+    "L'Hopital's rule": ["L'Hospital's rule uses derivatives to help evaluate limits involving indeterminate forms", "the derivative of 3 x squared plus x all over 5 x sqaured plus 12 x is 6 x plus 1 all over 10 x plus 12. This still doesn't work. You have to take the derivative again. It is 6 over 10. This works "]
 }
 
 
