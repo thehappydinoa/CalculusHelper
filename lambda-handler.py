@@ -73,7 +73,16 @@ definitions = {
     "differentials": ["differentials represents the principal part of the change in a function y equals f of x with respect to changes in the independent variable.", ""],
     "related rate": ["the related rate involves finding a rate at which a quantity changes by relating that quantity to other quantities whose rates of change are known.", ""],
     "related rates": ["related rates problems involve finding a rate at which a quantity changes by relating that quantity to other quantities whose rates of change are known.", ""],
-    "optimization": ["optimization is the the mathematical procedures such as finding the maximum of a function", ""]
+    "optimization": ["optimization is the the mathematical procedures such as finding the maximum of a function", ""],
+    # Unit 5
+    "Reimann sum": ["the Reimannsum is a certain kind of approximation of an integral by a finite sum.", "if we wanted to compute the area under the curve f of x equals negative x squared plus 3 on the interval 1 comma 3."],
+    "right endpoint rule": ["the right endpoint rule is using the right endpoint or side of the rectangle to find an approximation of the area under a curve", "the sum of f of x sub i minus 1 as i approaches n delta x"],
+    "left endpoint rule": ["the left endpoint rule is using the left endpoint or side of the rectangle to find an approximation of the area under a curve", "the sum of f of x sub i as i approaches n delta x"],
+    "midpoint rule": ["the midpoint rule is using the midpoint of the rectangle to find an approximation of the area under a curve", "delta x of the right endpoint and the left endpoint"],
+    "definite integral": ["A Definite Integral has start and end values: in other words there is an interval (a to b)", "intergral of f of x is dx"],
+    "integral": ["an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data", "the area under f of x from 0 to ax"]
+    "antiderivative": ["an antiderivative, primitive function, primitive integral or indefinite integral of a function is a differentiable function whose derivative is equal to the original function.", "f of x equals x cubed divided by 3 has the derivative of f of x equals x squared meaning the antiderivative is f"],
+    "indefinite integral": ["The function {\displaystyle f(x)} f(x) , the function being integrated, is known as the integrand. Note that the indefinite integral yields a family of functions one being an indefinite intergral", "intergral of f of x is dx plus C"]
 }
 
 

@@ -10,7 +10,7 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 - [x] limits (graphical, algebraic, table analysis)
 - [x] continuity
 - [x] continuous function
-- [x] discontinuity (removable, essential, infinite, and hole) 
+- [x] discontinuity (removable, essential, infinite, and hole)
 
 ### Unit 2
 - [x] derivative
@@ -22,10 +22,10 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 - [x] quotient rule for derivatives
 - [x] chain rule for derivatives
 - [ ] derivatives of exponential, logarithmic, and trigonometric functions
- 
- ### Unit 3
+
+### Unit 3
 - [x] implicit differentiation
-- [x] inverse derivative 
+- [x] inverse derivative
 - [x] critical value
 - [x] local extrema
 - [x] absolute extrema
@@ -33,7 +33,7 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 - [x] minimum
 - [x] inflection point
 - [x] concavity
-- [x] L'Hopital's Rule 
+- [x] L'Hopital's Rule
 
 ### Unit 4
 - [x] tangent lines
@@ -42,6 +42,15 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 - [x] differential
 - [x] related rates
 - [x] optimization
+
+### Unit 5
+- [x] Reimann sum
+- [x] right endpoint rule
+- [x] left endpoint rule
+- [x] midpoint rule
+- [x] definite integral
+- [x] antiderivative
+- [x] indefinite integral
 
 ## DEPENDENCIES
 
