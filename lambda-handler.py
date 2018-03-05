@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/env python2
 import re
 
 definitions = {
@@ -80,9 +80,14 @@ definitions = {
     "left endpoint rule": ["the left endpoint rule is using the left endpoint or side of the rectangle to find an approximation of the area under a curve", "the sum of f of x sub i as i approaches n delta x"],
     "midpoint rule": ["the midpoint rule is using the midpoint of the rectangle to find an approximation of the area under a curve", "delta x of the right endpoint and the left endpoint"],
     "definite integral": ["A Definite Integral has start and end values: in other words there is an interval (a to b)", "intergral of f of x is dx"],
-    "integral": ["an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data", "the area under f of x from 0 to ax"]
+    "integral": ["an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data", "the area under f of x from 0 to ax"],
     "antiderivative": ["an antiderivative, primitive function, primitive integral or indefinite integral of a function is a differentiable function whose derivative is equal to the original function.", "f of x equals x cubed divided by 3 has the derivative of f of x equals x squared meaning the antiderivative is f"],
-    "indefinite integral": ["The function {\displaystyle f(x)} f(x) , the function being integrated, is known as the integrand. Note that the indefinite integral yields a family of functions one being an indefinite intergral", "intergral of f of x is dx plus C"]
+    "indefinite integral": ["The function {\displaystyle f(x)} f(x) , the function being integrated, is known as the integrand. Note that the indefinite integral yields a family of functions one being an indefinite intergral", "intergral of f of x is dx plus C"],
+    # Unit 6
+    "u-substitution for integration": ["u-substitution is used when an integral contains some function and its derivative, that is, for an integral of the form.", "The integration is achieved by rewriting the integral in a form that makes it easier to read. Here, let u equals f of x. Then du over dx equals f prime of x"],
+    "integration by parts": ["integration by parts or partial integration is a process that finds the integral of a product of functions in terms of the integral of their derivative and antiderivative.", "f u equals u of x and du equals u prime of x dx, while v equals v of x and dv equals v prime of x dx, then integration by parts states that: the integreal of u times dv equals uv minus the integral of v times du"],
+    "partial fraction decomposition": ["partial fraction decomposition is the operation that consists in expressing the fraction as a sum of a polynomial and one or several fractions with a simpler denominator.", ""],
+    "integration by partial fraction decomposition": ["Partial fraction decomposition can help you with differential equations of the following form: dx over dt equals (x minus a) times (x minus b)", ""]
 }
 
 
