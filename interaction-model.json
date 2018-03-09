@@ -1,0 +1,270 @@
+{
+    "languageModel": {
+        "invocationName": "calculus helper",
+        "intents": [{
+                "name": "AMAZON.CancelIntent",
+                "slots": [],
+                "samples": []
+            },
+            {
+                "name": "AMAZON.HelpIntent",
+                "slots": [],
+                "samples": []
+            },
+            {
+                "name": "AMAZON.NoIntent",
+                "slots": [],
+                "samples": []
+            },
+            {
+                "name": "AMAZON.StopIntent",
+                "slots": [],
+                "samples": []
+            },
+            {
+                "name": "AMAZON.YesIntent",
+                "slots": [],
+                "samples": []
+            },
+            {
+                "name": "conceptIntent",
+                "slots": [{
+                    "name": "concept",
+                    "type": "concept"
+                }],
+                "samples": [
+                    "explain {concept}",
+                    "what is {concept}",
+                    "what is a {concept}",
+                    "what is the {concept}",
+                    "what are {concept}",
+                    "what {concept}",
+                    "what {concept} is",
+                    "explain what {concept} is",
+                    "{concept}",
+                    "{concept} is",
+                    "tell me about {concept}"
+                ]
+            },
+            {
+                "name": "definitionIntent",
+                "slots": [{
+                    "name": "concept",
+                    "type": "concept"
+                }],
+                "samples": [
+                    "define {concept}",
+                    "give me a definition of {concept}",
+                    "definition of {concept}"
+                ]
+            },
+            {
+                "name": "exampleIntent",
+                "slots": [{
+                    "name": "concept",
+                    "type": "concept"
+                }],
+                "samples": [
+                    "give me an example of {concept}",
+                    "example of {concept}",
+                    "example {concept}"
+                ]
+            }
+        ],
+        "types": [{
+            "name": "concept",
+            "values": [{
+                    "id": "23",
+                    "name": {
+                        "value": "chain rule for derivatives",
+                        "synonyms": [
+                            "chain rule for derivative"
+                        ]
+                    }
+                },
+                {
+                    "id": "22",
+                    "name": {
+                        "value": "quotient rule for derivatives",
+                        "synonyms": [
+                            "quotient rule for derivative"
+                        ]
+                    }
+                },
+                {
+                    "id": "21",
+                    "name": {
+                        "value": "product rule for derivatives",
+                        "synonyms": [
+                            "product rule for derivative"
+                        ]
+                    }
+                },
+                {
+                    "id": "20",
+                    "name": {
+                        "value": "sum/difference rule for derivatives",
+                        "synonyms": [
+                            "sum/difference rule for derivative",
+                            "difference rule for derivatives",
+                            "sum rule for derivatives"
+                        ]
+                    }
+                },
+                {
+                    "id": "19",
+                    "name": {
+                        "value": "power rule for derivatives",
+                        "synonyms": [
+                            "power rule for derivative"
+                        ]
+                    }
+                },
+                {
+                    "id": "18",
+                    "name": {
+                        "value": "properties of derivatives",
+                        "synonyms": [
+                            "properties of derivative"
+                        ]
+                    }
+                },
+                {
+                    "id": "17",
+                    "name": {
+                        "value": "formal definition of a derivative",
+                        "synonyms": [
+                            "formal definition of a derivatives"
+                        ]
+                    }
+                },
+                {
+                    "id": "16",
+                    "name": {
+                        "value": "derivative",
+                        "synonyms": [
+                            "derivatives"
+                        ]
+                    }
+                },
+                {
+                    "id": "15",
+                    "name": {
+                        "value": "oblique asymptotes",
+                        "synonyms": [
+                            "oblique asymptote"
+                        ]
+                    }
+                },
+                {
+                    "id": "14",
+                    "name": {
+                        "value": "horizontal asymptotes",
+                        "synonyms": [
+                            "horizontal asymptote"
+                        ]
+                    }
+                },
+                {
+                    "id": "13",
+                    "name": {
+                        "value": "vertical asymptotes",
+                        "synonyms": [
+                            "vertical asymptote"
+                        ]
+                    }
+                },
+                {
+                    "id": "12",
+                    "name": {
+                        "value": "asymptotes",
+                        "synonyms": [
+                            "asymptote"
+                        ]
+                    }
+                },
+                {
+                    "id": "11",
+                    "name": {
+                        "value": "hole",
+                        "synonyms": [
+                            "holes"
+                        ]
+                    }
+                },
+                {
+                    "id": "10",
+                    "name": {
+                        "value": "infinite discontinuity",
+                        "synonyms": [
+                            "infinite discontinuities"
+                        ]
+                    }
+                },
+                {
+                    "id": "9",
+                    "name": {
+                        "value": "essential discontinuity",
+                        "synonyms": [
+                            "essential discontinuities"
+                        ]
+                    }
+                },
+                {
+                    "id": "8",
+                    "name": {
+                        "value": "removable discontinuity",
+                        "synonyms": [
+                            "removable discontinuities"
+                        ]
+                    }
+                },
+                {
+                    "id": "7",
+                    "name": {
+                        "value": "discontinuity",
+                        "synonyms": [
+                            "discontinuities"
+                        ]
+                    }
+                },
+                {
+                    "id": "6",
+                    "name": {
+                        "value": "continuous function",
+                        "synonyms": [
+                            "continuous functions"
+                        ]
+                    }
+                },
+                {
+                    "id": "5",
+                    "name": {
+                        "value": "continuity",
+                        "synonyms": [
+                            "continuities"
+                        ]
+                    }
+                },
+                {
+                    "id": "1",
+                    "name": {
+                        "value": "limits",
+                        "synonyms": [
+                            "limit"
+                        ]
+                    }
+                },
+                {
+                    "id": "0",
+                    "name": {
+                        "value": "function",
+                        "synonyms": [
+                            "functions"
+                        ]
+                    }
+                }
+            ]
+        }]
+    }
+}
