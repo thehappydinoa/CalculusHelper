@@ -87,7 +87,14 @@ definitions = {
     "u-substitution for integration": ["u-substitution is used when an integral contains some function and its derivative, that is, for an integral of the form.", "The integration is achieved by rewriting the integral in a form that makes it easier to read. Here, let u equals f of x. Then du over dx equals f prime of x"],
     "integration by parts": ["integration by parts or partial integration is a process that finds the integral of a product of functions in terms of the integral of their derivative and antiderivative.", "f u equals u of x and du equals u prime of x dx, while v equals v of x and dv equals v prime of x dx, then integration by parts states that: the integreal of u times dv equals uv minus the integral of v times du"],
     "partial fraction decomposition": ["partial fraction decomposition is the operation that consists in expressing the fraction as a sum of a polynomial and one or several fractions with a simpler denominator.", ""],
-    "integration by partial fraction decomposition": ["Partial fraction decomposition can help you with differential equations of the following form: dx over dt equals (x minus a) times (x minus b)", ""]
+    "integration by partial fraction decomposition": ["Partial fraction decomposition can help you with differential equations of the following form: dx over dt equals (x minus a) times (x minus b)", ""],
+    # Unit 7
+    "determine the area between curves": ["a method of determining the area between two curves", "Given are the two curves y equals f of x and y equals g of x. equating both the curves to get the value of interval [a,b] where the given curves intersects. The area between the two curves bounded by the x axis is given by the formula A equals the intergral of a and b of f of x minus g of x dx"],
+    "solid of revolution": ["a solid of revolution is a solid figure obtained by rotating a plane curve around some straight line that lies on the same plane.", ""],
+    "volume of a solid of revolution": ["the volume of a solid of revolution", "V equals intergral from a to b equals A of x dx"],
+    "disk method": ["a method of finding the volume of a solid that revolves directly around the axis of rotation", ""],
+    "washer method": ["a method of finding the volume of a solid that revolves around the axis of rotation without touching the axis", ""],
+    "cylindrical shell method": ["a method of cylindrical shells, that is easier to use in such a case.", "Using cylindrical shell with inner radius, outer radius, and height. Its volume is calculated by subtracting the volume of the inner cylinder from the volume of the outer cylinder"]
 }
 
 

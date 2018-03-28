@@ -66,6 +66,15 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 -   [ ] partial fraction decomposition
 -   [ ] integration by partial fraction decomposition
 
+### Unit 7
+
+-   [x] determine the area between curves
+-   [ ] solid of revolution
+-   [x] volume of a solid of revolution
+-   [ ] disk method
+-   [ ] washer method
+-   [x] cylindrical shell method
+
 ## DEPENDENCIES
 
 This has been tested with Python 2.6 and 2.7.
