@@ -10,7 +10,7 @@ This is a Python program that interacts with the Amazon Alexa SDK and references
 
 ## Why
 
-After my Calculus teacher found out I was interested in programming he suggested that my unit and final assessments could be done in the form of an app. I took this suggestion and made an skill (app) for Amazon Alexa. My app has a list of Calculus terms, definitions, and examples. You can ask Alexa what a term is, you can also ask for only definitions or only examples.
+After my Calculus teacher found out I was interested in programming he suggested that my unit and final assessments could be done in the form of an app. I took this suggestion and made a skill (app) for Amazon Alexa. My app has a list of Calculus terms, definitions, and examples. You can ask Alexa what a term is, you can also ask for only definitions or only examples.
 
 ## Units Log
 
@@ -33,7 +33,7 @@ After my Calculus teacher found out I was interested in programming he suggested
 -   [x] product rule for derivatives
 -   [x] quotient rule for derivatives
 -   [x] chain rule for derivatives
--   [ ] derivatives of exponential, logarithmic, and trigonometric functions
+-   [x] derivatives of exponential, logarithmic, and trigonometric functions
 
 ### Unit 3
 
@@ -71,22 +71,22 @@ After my Calculus teacher found out I was interested in programming he suggested
 
 -   [x] u-substitution for integration
 -   [x] integration by parts
--   [ ] partial fraction decomposition
--   [ ] integration by partial fraction decomposition
+-   [x] partial fraction decomposition
+-   [x] integration by partial fraction decomposition
 
 ### Unit 7
 
 -   [x] determine the area between curves
--   [ ] solid of revolution
+-   [x] solid of revolution
 -   [x] volume of a solid of revolution
--   [ ] disk method
--   [ ] washer method
+-   [x] disk method
+-   [x] washer method
 -   [x] cylindrical shell method
 
 ### Unit 8
 
 -   [x] differential equations
--   [ ] arc length
+-   [x] arc length
 
 ## Todos
 
