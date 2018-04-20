@@ -46,9 +46,6 @@ definitions = {
     "derivatives of exponential functions": ["", "the derivative of e to the power of x is e to the power of x"],
     "derivatives of logarithmic functions": ["", ""],
     "derivatives of trigonometric functions": ["", ""],
-    "derivative of exponential functions": ["", "the derivative of e to the power of x is e to the power of x"],
-    "derivative of logarithmic functions": ["", ""],
-    "derivative of trigonometric functions": ["", ""],
     # Unit 3
     "implicit differentiation": ["Implicit differentiation is nothing more than a special case of the well-known chain rule for derivatives", "x squared plus y squared equals twenty five"],
     "inverse derivative": ["the inverse of a function y equals f of x is a function that, in some fashion, undoes the effect of f", "x equals f inverse of y is the inverse of y equals f or x"],
@@ -82,7 +79,7 @@ definitions = {
     "definite integral": ["A Definite Integral has start and end values: in other words there is an interval (a to b)", "intergral of f of x is dx"],
     "integral": ["an integral assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data", "the area under f of x from 0 to ax"],
     "antiderivative": ["an antiderivative, primitive function, primitive integral or indefinite integral of a function is a differentiable function whose derivative is equal to the original function.", "f of x equals x cubed divided by 3 has the derivative of f of x equals x squared meaning the antiderivative is f"],
-    "indefinite integral": ["The function {\displaystyle f(x)} f(x) , the function being integrated, is known as the integrand. Note that the indefinite integral yields a family of functions one being an indefinite intergral", "intergral of f of x is dx plus C"],
+    "indefinite integral": ["The function f of x, the function being integrated, is known as the integrand. Note that the indefinite integral yields a family of functions one being an indefinite intergral", "intergral of f of x is dx plus C"],
     # Unit 6
     "u-substitution for integration": ["u-substitution is used when an integral contains some function and its derivative, that is, for an integral of the form.", "The integration is achieved by rewriting the integral in a form that makes it easier to read. Here, let u equals f of x. Then du over dx equals f prime of x"],
     "integration by parts": ["integration by parts or partial integration is a process that finds the integral of a product of functions in terms of the integral of their derivative and antiderivative.", "f u equals u of x and du equals u prime of x dx, while v equals v of x and dv equals v prime of x dx, then integration by parts states that: the integreal of u times dv equals uv minus the integral of v times du"],
@@ -94,7 +91,10 @@ definitions = {
     "volume of a solid of revolution": ["the volume of a solid of revolution", "V equals intergral from a to b equals A of x dx"],
     "disk method": ["a method of finding the volume of a solid that revolves directly around the axis of rotation", ""],
     "washer method": ["a method of finding the volume of a solid that revolves around the axis of rotation without touching the axis", ""],
-    "cylindrical shell method": ["a method of cylindrical shells, that is easier to use in such a case.", "Using cylindrical shell with inner radius, outer radius, and height. Its volume is calculated by subtracting the volume of the inner cylinder from the volume of the outer cylinder"]
+    "cylindrical shell method": ["a method of cylindrical shells, that is easier to use in such a case.", "Using cylindrical shell with inner radius, outer radius, and height. Its volume is calculated by subtracting the volume of the inner cylinder from the volume of the outer cylinder"],
+    # Unit 8
+    "differential equations": ["A differential equation is a mathematical equation that relates some function with its derivatives.", "the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two. "],
+    "arc length": ["The distance along the curved line making up the arc", ""]
 }
 
 

@@ -4,7 +4,15 @@
 
 This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyGqv)
 
-## Update Log
+## How it works
+
+This is a Python program that interacts with the Amazon Alexa SDK and references a database filled with this years Calculus terms, definitions, and examples.
+
+## Why
+
+After my Calculus teacher found out I was interested in programming he suggested that my unit and final assessments could be done in the form of an app. I took this suggestion and made an skill (app) for Amazon Alexa. My app has a list of Calculus terms, definitions, and examples. You can ask Alexa what a term is, you can also ask for only definitions or only examples.
+
+## Units Log
 
 ### Unit 1
 
@@ -74,6 +82,16 @@ This is the code of my Amazon Alexa Skill [Calculus Helper](http://amzn.to/2AjyG
 -   [ ] disk method
 -   [ ] washer method
 -   [x] cylindrical shell method
+
+### Unit 8
+
+-   [x] differential equations
+-   [ ] arc length
+
+## Todos
+
+-   [ ] Find the derivative of a functions
+-   [ ] Machine Learning Math
 
 ## DEPENDENCIES
 
